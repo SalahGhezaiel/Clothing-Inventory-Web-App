@@ -1,6 +1,6 @@
 # Clothing Inventory Web App
 
-## Short Description
+## Description
 
 A web-based inventory management system built with Django, designed to help users efficiently track, manage, and organize inventory items. The application provides a user-friendly interface for adding, updating, and monitoring stock levels, making it ideal for small businesses or educational purposes.
 
